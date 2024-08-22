@@ -109,13 +109,3 @@
 # 𝑛
 # n integers.
 # 𝐴
-# A is the set of integers you like.
-# 𝐵
-# B is the set of integers you dislike.
-# Logic:
-
-# Iterate over each integer in the array. Check if it belongs to set 
-# 𝐴
-# A (increment happiness) or set 
-# 𝐵
-# B (decrement happiness).
