@@ -32,3 +32,6 @@ pip install -r requirements.txt
 3. components
 4. pipeline
 5. Main file
+
+
+381492158561.dkr.ecr.ap-south-1.amazonaws.com/visa
